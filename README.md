@@ -3,11 +3,6 @@ A custom rule based pair screener for forex and crypto pairs across all exchange
 
 ### Frontend
 
-1. `cd path-to-project`
-2. `npm install`
-3. `npm run local`
-4. `npm run build`
-
 ### Backend
 
 1. `cd path-to-project`
